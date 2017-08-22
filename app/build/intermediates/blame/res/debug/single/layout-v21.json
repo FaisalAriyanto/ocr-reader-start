@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\NATIVE\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Faisal\\.android\\build-cache\\0de55cde67306750ab7ff54c545af23458a98158\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\NATIVE\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Faisal\\.android\\build-cache\\0de55cde67306750ab7ff54c545af23458a98158\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\NATIVE\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Faisal\\.android\\build-cache\\0de55cde67306750ab7ff54c545af23458a98158\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\NATIVE\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Faisal\\.android\\build-cache\\0de55cde67306750ab7ff54c545af23458a98158\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\NATIVE\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Faisal\\.android\\build-cache\\9e8e44343f91be50a1eb736f933fa8d5bd6ab4d4\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]
